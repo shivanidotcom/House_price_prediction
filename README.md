@@ -7,9 +7,9 @@ This is a Jupyter notebook. Package requirements are included in requirement.txt
 
 <h1>Libraries</h1>
 
-Pandas — For handling structured data
-Scikit Learn — For machine learning
-NumPy — For linear algebra and mathematics
+Pandas — For handling structured data<br>
+Scikit Learn — For machine learning<br>
+NumPy — For linear algebra and mathematics<br>
 
 <h1>Authors</h1>
 
