@@ -1,5 +1,5 @@
-# House_price_prediction
-The competition goal is to predict sale prices for homes . You’re given a training and testing data set in csv format.
+# House_price_prediction && Marks_prediction
+The competition goal is to predict sale prices for homes and marks. You’re given a training and testing data set in csv format.
 
 <h1>Installation</h1>
 
