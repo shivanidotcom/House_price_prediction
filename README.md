@@ -11,6 +11,6 @@ Pandas — For handling structured data<br>
 Scikit Learn — For machine learning<br>
 NumPy — For linear algebra and mathematics<br>
 
-<h1>Authors</h1>
+<h1>Author</h1>
 
 This repo is maintained by Vemula Shivani (http://shivanivemula.epizy.com/)
